@@ -4,7 +4,7 @@ This repository contains the implementation of the **Data Analysis project** for
 
 The project focuses on the statistical analysis of experimental data from epilepsy research using **Transcranial Magnetic Stimulation (TMS)**, a non-invasive brain stimulation technique. The goal is to investigate how TMS affects the duration of epileptic discharges (ED) and to explore statistical modeling approaches for the collected data.
 
----
+--- 
 
 ## 📊 Project Overview
 
